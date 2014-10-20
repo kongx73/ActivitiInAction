@@ -1,4 +1,0 @@
-Acitivity
-=========
-
-ActivitiInAction_sourcecode
